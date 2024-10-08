@@ -1,32 +1,13 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-
 title: BCLUB.GOLF
 email: hi@bclub.golf
-description: >- # this means to ignore newlines until "baseurl:"
-Join our exclusive <a href="https://discord.gg/vnJu3ZWVKy" target="_blank">BGOLF CLUB Discord</a> and <a href="https://www.tiktok.com/@bgolfclub" target="_blank">BGOLF CLUB TikTok</a> to stay tapped in!
-Participate in our elite league, play at partner country club golf courses around the world, and enjoy exclusive discounts at our partner golf shops. Experience the excitement of golf with other passionate enthusiasts and make the most of your BGOLF Club membership!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://syndikat.golf" # the base hostname & protocol for your site, e.g. http://example.com
+description: >- 
+  Join our exclusive <a href="https://discord.gg/vnJu3ZWVKy" target="_blank">BGOLF CLUB Discord</a> and <a href="https://www.tiktok.com/@bgolfclub" target="_blank">BGOLF CLUB TikTok</a> to stay tapped in!
+  Participate in our elite league, play at partner country club golf courses around the world, and enjoy exclusive discounts at our partner golf shops. Experience the excitement of golf with other passionate enthusiasts and make the most of your BGOLF Club membership!
+baseurl: "" # e.g., /blog
+url: "https://syndikat.golf" # e.g., http://example.com
 twitter_username: bitgolfclub
-github_username:  luvnft
+github_username: luvnft
 permalink: /blog/:categories/:title/
 sharing_image: /assets/images/bgolf-sharing-image.jpg
 
@@ -39,38 +20,9 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-# socials:
-  #- name: twitter
-  #  url: https://twitter.com/bitgolfclub
-  #- name: facebook
-  #  url: https://facebook.com
-  #- name: instagram
-  #  url: https://instagram.com
-  #- name: pinterest
-  #  url: https://pinterest.com
-  #- name: youtube
-  #  url: https://www.youtube.com/@bgolfclub
-
-# Exclude from processing.
-# The following items will not be processed, by default.
-# Any item listed under the `exclude:` key here will be automatically added to
-# the internal "default list".
-#
-# Excluded items can be processed by explicitly listing the directories or
-# their entries' file path in the `include:` list.
-#
+# Exclude from processing
 exclude:
   - svelte-components
   - node_modules
   - package.json
   - package-lock.json
-#   - .sass-cache/
-#   - .jekyll-cache/
-#   - gemfiles/
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules/
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
