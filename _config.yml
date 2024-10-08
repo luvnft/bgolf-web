@@ -2,10 +2,10 @@
 title: BCLUB.GOLF
 email: hi@bclub.golf
 description: >- 
-  Join our exclusive <a href="https://discord.gg/vnJu3ZWVKy" target="_blank">BGOLF CLUB Discord</a> and <a href="https://www.tiktok.com/@bgolfclub" target="_blank">BGOLF CLUB TikTok</a> to stay tapped in!
+  Join our exclusive BGOLF CLUB Discord and BGOLF CLUB TikTok to stay tapped in!
   Participate in our elite league, play at partner country club golf courses around the world, and enjoy exclusive discounts at our partner golf shops. Experience the excitement of golf with other passionate enthusiasts and make the most of your BGOLF Club membership!
 baseurl: "" # e.g., /blog
-url: "https://syndikat.golf" # e.g., http://example.com
+url: "https://bclub.golf" # e.g., http://example.com
 twitter_username: bitgolfclub
 github_username: luvnft
 permalink: /blog/:categories/:title/
