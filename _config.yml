@@ -18,17 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: syndikat.golf
-email: your-email@example.com
+title: BCLUB.GOLF
+email: hi@bclub.golf
 description: >- # this means to ignore newlines until "baseurl:"
-  Entdecke die Discgolf-Szene Kölns.
-  Tritt unserem Discord bei, mach bei unserer wöchentlichen Liga mit und erlebe gemeinsam mit anderen Enthusiasten die Faszination dieses Sports!
+Join our exclusive <a href="https://discord.gg/vnJu3ZWVKy" target="_blank">BGOLF CLUB Discord</a> and <a href="https://www.tiktok.com/@bgolfclub" target="_blank">BGOLF CLUB TikTok</a> to stay tapped in!
+Participate in our elite league, play at partner country club golf courses around the world, and enjoy exclusive discounts at our partner golf shops. Experience the excitement of golf with other passionate enthusiasts and make the most of your BGOLF Club membership!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://syndikat.golf" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: maex2k
-github_username:  maxgreive
+twitter_username: bitgolfclub
+github_username:  luvnft
 permalink: /blog/:categories/:title/
-sharing_image: /assets/images/syndikat-sharing-image.png
+sharing_image: /assets/images/bgolf-sharing-image.jpg
 
 # Build settings
 theme: minima
@@ -41,7 +41,7 @@ plugins:
 
 # socials:
   #- name: twitter
-  #  url: https://twitter.com
+  #  url: https://twitter.com/bitgolfclub
   #- name: facebook
   #  url: https://facebook.com
   #- name: instagram
@@ -49,7 +49,7 @@ plugins:
   #- name: pinterest
   #  url: https://pinterest.com
   #- name: youtube
-  #  url: https://youtube.com
+  #  url: https://www.youtube.com/@bgolfclub
 
 # Exclude from processing.
 # The following items will not be processed, by default.
