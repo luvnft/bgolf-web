@@ -19,6 +19,6 @@ Es wird eine 9-Loch Runde gespielt (altes Layout plus Teepad 2 zum Korb 4 und Te
 
 Anmeldung und Scoring läuft über die [kostenlose App UDisc](https://udisc.com/). Die Anmeldung ist bereits freigeschaltet, also schnell anmelden!
 
-Turnier-/Ligaleiter ist Philipp, Fragen und Anregungen können an [birdie@syndikat.golf](mailto:birdie@syndikat.golf) geschickt werden.
+Turnier-/Ligaleiter ist Philipp, Fragen und Anregungen können an [hi@bclub.golf](mailto:hi@bclub.golf) geschickt werden.
 
 [Direkt zur Liga auf UDisc.](https://udisc.com/leagues/syndication-weekly)

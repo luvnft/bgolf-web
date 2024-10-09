@@ -1,38 +1,38 @@
 ---
 layout: post
-title: Die besten Deals im neuen Preisvergleichstool!
+title: The Best Deals in the New Price Comparison Tool!
 image: /assets/images/posts/preisvergleich.jpg
 thumbnail: /assets/images/posts/thumbnails/preisvergleich_thumb.jpg
 tags: app discs
 author: max
 ---
 
-Du suchst den besten Preis für den nächsten "total gerechtfertigten Scheibenkauf"? Bereit für ein neues Level an Scheiben-Shopping? [Unser brandneues Preisvergleichstool](/preisvergleich) ist da, um dir dabei zu helfen, die heißesten Deals für eure Lieblings-Discs und -zubehör zu finden, ohne dabei die Stores einzeln abzuklappern.
+Are you looking for the best price for your next "totally justified disc purchase"? Ready for a new level of disc shopping? [Our brand-new price comparison tool](/preisvergleich) is here to help you find the hottest deals on your favorite discs and accessories without having to scour the stores individually.
 
-<a href="/preisvergleich" class="button button--big button--primary">Zum Preisvergleich</a>
+<a href="/preisvergleich" class="button button--big button--primary">Go to Price Comparison</a>
 
-## Wie funktioniert's?
+## How Does It Work?
 
-Easy peasy! Einfach den Namen der Disc eingeben, die du suchst, und wir durchforsten blitzschnell eine ganze Reihe deutscher Onlineshops nach Verfügbarkeit und Preis. Innerhalb von Sekunden präsentieren wir dir eine schicke Liste mit allen Infos, damit du sofort durchstarten kannst.
+Easy peasy! Just enter the name of the disc you’re looking for, and we’ll quickly search through a wide range of German online shops for availability and price. Within seconds, we present you with a neat list of all the info so you can get started right away.
 
-## Warum wirst du unser Tool lieben?
+## Why Will You Love Our Tool?
 
-* Zeit ist Geld: Statt stundenlang einzeln die Shops zu durchforsten, findest du mit unserem Tool alle Infos an einem Ort. So kannst du mehr Zeit auf dem Parcours verbringen und weniger vor dem Bildschirm hängen.
+* **Time is Money**: Instead of spending hours searching through shops individually, you can find all the information in one place with our tool. This way, you can spend more time on the course and less time in front of the screen.
 
-* Spare bares Geld: Vergleiche Preise in verschiedenen Shops und schnapp dir den besten Preis für das Plastik deiner Wahl.
+* **Save Real Money**: Compare prices across different shops and grab the best price for your preferred plastic.
 
-* Shoppen ohne Stress: Unser Tool ist super einfach zu bedienen. Selbst wenn du nicht der Technikfreak bist, wirst du dich hier wie zu Hause fühlen.
+* **Stress-Free Shopping**: Our tool is super easy to use. Even if you’re not a tech-savvy person, you’ll feel right at home here.
 
-## Welche Shops sind dabei?
+## Which Shops Are Included?
 
-Wir haben acht der angesagtesten deutschen Discgolf-Shops an Bord. Von den neuesten Underdogs bis hin zu klassischen Favoriten – bei uns findest du alles, was dein Discgolfer-Herz begehrt.
+We’ve got eight of the trendiest German disc golf shops on board. From the latest underdogs to classic favorites – you’ll find everything your disc golfer's heart desires with us.
 
-Du vermisst einen Shop? Schreib uns [über unser Kontaktformular](/contact)!
+Missing a shop? Let us know [through our contact form](/contact)!
 
-## Fazit:
+## Conclusion:
 
-Ready, set, throw! [Unser Preisvergleichstool](/preisvergleich) ist dein neuer bester Freund, wenn es darum geht, die besten Discgolf-Deals zu finden. Egal, ob du ein Profi bist oder gerade erst anfängst – mit uns hast du immer die Nase vorn.
+Ready, set, throw! [Our price comparison tool](/preisvergleich) is your new best friend when it comes to finding the best disc golf deals. Whether you’re a pro or just starting out – with us, you’ll always be ahead of the game.
 
-Probier's gleich mal aus und schlag bei den Osterangeboten zu! Die Sommersaison beginnt, da kann man vermutlich den ein oder anderen Spontankauf rechtfertigen 😉
+Try it out now and take advantage of the Easter deals! The summer season is starting, so it's probably justifiable to make a spontaneous purchase or two 😉
 
 Keep throwing,<br>Max

@@ -3,7 +3,7 @@ async function initBagTags() {
   if (!$el) return;
 
   try {
-    const ranking = await fetch('https://api.syndikat.golf/bagtag').then(response => response.json());
+    const ranking = await fetch('https://api.bdisc.golf/bagtag').then(response => response.json());
     renderRanking(ranking, $el);
   } catch (err) {
     console.error(err);

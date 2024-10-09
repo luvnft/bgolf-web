@@ -1,4 +1,4 @@
-const API_URL = "https://api.syndikat.golf/tournaments";
+const API_URL = "https://api.bdisc.golf/tournaments";
 const endpoints = {
   official: API_URL,
   metrix: API_URL + '/metrix'
@@ -46,7 +46,7 @@ async function initMap() {
 
   if (map.messagebox) {
     map.messagebox.options.timeout = 99999;
-    map.messagebox.show('Hinweis: Cookies akzeptieren, um Turniere zu laden.');
+    map.messagebox.show('Note: Accept cookies to load tournaments.');
   }
 
   const overlayMaps = {
@@ -82,13 +82,13 @@ function renderMarker(tournament, layer) {
 
   marker.bindPopup(`
       <p class="popup-title">${badgeHTML}${tournament.title}</p>
-      <p>Ort: ${tournament.location}</p>
-      <p>${!isOneDay ? 'Erster ' : ''}Spieltag: ${tournament.dates.startTournament ? formatDate(tournament.dates.startTournament) : "noch unbekannt"}</p>
-      ${tournament.dates.endTournament && !isOneDay ? `<p>Letzter Spieltag: ${formatDate(tournament.dates.endTournament)}</p>` : ""}
-      ${tournament.dates.startRegistration ? `<p>Registrierung: ab ${formatDate(tournament.dates.startRegistration)}</p>` : ""}
-      ${tournament.dates.startRegistration && tournament?.spots?.overall ? `<p>Freie Startplätze: ${tournament.spots.overall - tournament.spots.used}/${tournament.spots.overall}</p>` : ''}
-      ${tournament.relatedTournaments ? `<p>Verbundene Runden: ${tournament.relatedTournaments.map(t => `<a href="https://discgolfmetrix.com/${t.id}">${t.round}</a>`).join(', ')}</p>` : ''}
-      <p><a href="${tournament.link}" target="_blank" rel="noopener" class="popup-link">Turnierausschreibung ansehen <i class="ion ion-md-exit"></i></a></p>
+      <p>Location: ${tournament.location}</p>
+      <p>${!isOneDay ? 'First ' : ''}Match Day: ${tournament.dates.startTournament ? formatDate(tournament.dates.startTournament) : "unknown"}</p>
+      ${tournament.dates.endTournament && !isOneDay ? `<p>Last Match Day: ${formatDate(tournament.dates.endTournament)}</p>` : ""}
+      ${tournament.dates.startRegistration ? `<p>Registration: from ${formatDate(tournament.dates.startRegistration)}</p>` : ""}
+      ${tournament.dates.startRegistration && tournament?.spots?.overall ? `<p>Available Spots: ${tournament.spots.overall - tournament.spots.used}/${tournament.spots.overall}</p>` : ''}
+      ${tournament.relatedTournaments ? `<p>Related Rounds: ${tournament.relatedTournaments.map(t => `<a href="https://discgolfmetrix.com/${t.id}">${t.round}</a>`).join(', ')}</p>` : ''}
+      <p><a href="${tournament.link}" target="_blank" rel="noopener" class="popup-link">View Tournament Details <i class="ion ion-md-exit"></i></a></p>
     `, {
     maxWidth: 250
   });

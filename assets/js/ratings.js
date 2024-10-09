@@ -34,7 +34,7 @@ async function initRatings() {
   if (!$el) return;
 
   try {
-      const ratings = await fetch('https://api.syndikat.golf/ratings').then(response => response.json());
+      const ratings = await fetch('https://api.bdisc.golf/ratings').then(response => response.json());
     renderRatings(ratings, $el);
   } catch (err) {
     console.error(err);

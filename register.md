@@ -1,28 +1,31 @@
 ---
-title: Mitglied werden
+title: Register
 layout: membership
 ---
 
-Du willst Turniere spielen, dich mit Gleichgesinnten vernetzen und dabei helfen Discgolf in Köln und Deutschland bekannter zu machen?
+# Join the BDISC Golf Club!
 
-Dann freuen wir uns über Deine Anmeldung!
+Do you want to play tournaments, connect with like-minded people, and help make the disc golf a trending topic on social media?
 
-Wähle hier Deinen Abrechnungszeitraum aus. Die Mitgliedschaft verlängert sich automatisch, wenn Du nicht kündigst. Als Zahlungsdienstleister nutzen wir [Stripe](https://stripe.com/de). Es werden keine Daten auf unseren Servern gespeichert. Bei Fragen zu Mitgliedschaft oder Zahlungsmöglichkeiten, [schreib uns über das Kontaktformular](/contact/).
+Then we look forward to your registration!
+
+Select your billing period here. Membership will automatically renew unless you cancel. We use [Stripe](https://stripe.com/de) as the payment service provider. No data is stored on our servers. If you have questions about membership or payment options, [contact us through the contact form](/contact/).
 
 {% include components/plan_selection.html %}
 
-Um deine Mitgliedschaft zu ändern oder zukündigen oder um deine Zahlungsdaten zu ändern, kannst du [im Stripe Dashboard deinen Account verwalten](https://billing.stripe.com/p/login/3cseY17778iO6Vq6oo).
+To change or cancel your membership or to update your payment details, you can [manage your account in the Stripe Dashboard](https://billing.stripe.com/p/login/3cseY17778iO6Vq6oo).
 
-### Benefits
+## Benefits
 
-- DFV-Nummer (wird bei offiziellen Turnieren benötigt)
-- Vereinstraining
-- Versicherung bei Turnieren
-- 15% bei [frisbeeshop.com](https://frisbeeshop.com)
-- Member-Access auf dem Discord-Server
+- DFV number (required for official tournaments)
+- Club training
+- Insurance at tournaments
+- 15% discount at [frisbeeshop.com](https://frisbeeshop.com)
+- Member access on the Discord server
 
-### Spenden
+## Donations
 
-Wenn du einen Beitrag spenden möchtest, [findest du hier ein Zahlungsformular](https://buy.stripe.com/5kAdULfSzh02eOIdQV), mit dem du uns einen beliebigen Betrag schicken kannst.
+If you would like to make a contribution, [you can find a payment form here](https://buy.stripe.com/5kAdULfSzh02eOIdQV), allowing you to send us any amount.
 
-Wenn Du Fragen hast, [schreib uns über das Kontaktformular](/contact/).
+If you have questions, [contact us through the contact form](/contact/).
+

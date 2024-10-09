@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Schwerstarbeit im Sauerland: Ein Blick auf die Big Arm Open 3"
+title: "Heavy Work in Sauerland: A Look at the Big Arm Open 3"
 date: 2024-05-08
 image: /assets/images/posts/big-arm-open.jpg
 thumbnail: /assets/images/posts/thumbnails/big-arm-open.jpg
 tags: turnier
 author: max
-excerpt: Spannung und einige Herausforderungen bei den Big Arm Open 3 in Schmallenberg! Discgolf-Spieler aus ganz Deutschland messen sich an drei packenden Turniertagen!
+excerpt: Excitement and some challenges at the Big Arm Open 3 in Schmallenberg! Disc golf players from all over Germany compete over three thrilling tournament days!
 ---
 
 Ursprünglich hatte ich geplant, auch ohne Startplatz nach Schmallenberg zu fahren, um beim Turnier Fotos zu schießen und die atemberaubende Atmosphäre des Golfplatzes zu genießen. Philipp und ich hatten zusammen mit Severin von den [Bonnsai](https://bonnsai.org/) eine Ferienwohnung für das Wochenende gemietet. Da allerdings nur der Bonner aufgrund seines Ratings einen Startplatz sicher hatte, planten wir, zumindest den Donnerstag zu nutzen, um am Übungstag eine Runde zu spielen.

@@ -11,4 +11,4 @@ Unsere wöchentliche Liga. Spieler:innen jedes Niveaus sind willkommen. Eine Run
 
 ## Weitere Events
 
-Schick uns gern eine [Email an birdie@sydikat.golf](mailto:birdie@syndikat.golf) mit einem Hinweis auf ein Event, das hier veröffentlicht werden sollte.
+Schick uns gern eine [Email an birdie@sydikat.golf](mailto:hi@bclub.golf) mit einem Hinweis auf ein Event, das hier veröffentlicht werden sollte.

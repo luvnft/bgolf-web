@@ -15,4 +15,4 @@ Inzwischen hat sich das Event etabliert und natürlich wird die Serie auch im ne
 
 Weiterhin sind auch gerne Discgolf-Anfänger herzlich willkommen, um in lockerer Atmosphäre die ersten "Turniererfahrungen" zu sammeln.
 
-Wir freuen uns über euer Feedback. Wie haben euch die ersten Events gefallen, was kann verbessert werden? Schreibt gerne eine [Email an birdie@syndikat.golf](mailto:birdie@syndikat.golf)
+Wir freuen uns über euer Feedback. Wie haben euch die ersten Events gefallen, was kann verbessert werden? Schreibt gerne eine [Email an hi@bclub.golf](mailto:hi@bclub.golf)

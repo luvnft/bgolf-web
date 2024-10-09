@@ -1,72 +1,71 @@
 ---
 layout: post
-title: Die besten Discgolf-Scheiben für Einsteiger
+title: The Best Disc Golf Discs for Beginners
 date: 2024-05-11 00:00
 image: /assets/images/posts/beginner-discs.jpg
 thumbnail: /assets/images/posts/thumbnails/beginner-discs.jpg
 tags: discs
-author: max
-excerpt: Für Neulinge im Discgolf-Sport kann es sehr kompliziert sein, sich die ersten Scheiben zu kaufen. Worauf kommt es an und welcher Fehler sollten vermieden werden?
+author: Hahz
+excerpt: For newcomers to the sport of disc golf, buying their first discs can be quite complicated. What should you pay attention to, and what mistakes should be avoided?
 ---
 
-Für Neulinge im Discgolf-Sport kann es sehr kompliziert sein, sich die ersten Scheiben zu kaufen. Worauf kommt es an und welcher Fehler sollten vermieden werden? In diesem Beitrag versuchen wir Licht ins Dunkel zu bringen und stellen dir am Ende ein paar Anfängersets zusammen.
+For newcomers to the sport of disc golf, buying their first discs can be quite complicated. What should you pay attention to, and what mistakes should be avoided? In this post, we aim to shed some light on the topic and will put together a few beginner sets at the end.
 
-## Midrange, Understable, Overmold … bitte was?
+## Midrange, Understable, Overmold … please what?
 
-Lass uns zuallererst ein paar Begriffe klären. Im Allgemeinen gibt es drei Arten von Discs: Putter, Midranges und Driver. Natürlich ist dies nur die halbe Wahrheit und fortgeschrittene Spielerinnen und Spieler wissen, dass es noch viele Unterteilungen in den jeweiligen Kategorien gibt. Für den Anfang kann dir dies allerdings egal sein, du solltest nur verstehen, worin sich diese Scheiben unterscheiden und wo ihre Vor- und Nachteile liegen.
+First, let's clarify a few terms. Generally, there are three types of discs: putters, midranges, and drivers. Of course, this is only half the truth, and advanced players know that there are many subdivisions within these categories. However, for beginners, this can be ignored; you should just understand how these discs differ and their respective advantages and disadvantages.
 
-So wie es beim traditionellen Golf mit Ball verschiedene Schläger gibt, gibt es auch beim Discgolf für die verschiedenen Distanzen unterschiedliche Wurfgeräte. Einige Begriffe wie Driver und Putter wurden übernommen, andere werden exklusiv im Scheibensport genutzt.
+Just as there are different clubs in traditional golf, there are different throwing devices in disc golf for various distances. Some terms like driver and putter have been adopted, while others are used exclusively in disc sports.
 
-![Drei verschiedene Discgolf-Scheiben. Driver, Midrange, Putter](/assets/images/posts/driver-mid-putter.jpg)
+![Three different disc golf discs: Driver, Midrange, Putter](/assets/images/posts/driver-mid-putter.jpg)
 
-Auf dem obigen Bild sind diese drei wichtigsten Scheiben zu sehen. Oben in türkis ein **Driver**. Mit seiner sehr scharfen Kante, ist er dafür gemacht schnell durch die Luft zu fliegen und Meter zu machen. Der Luftwiderstand dieser Discs ist sehr gering, dadurch erreicht diese Scheibe die höchste Geschwindigkeit. Profis erreichen damit Weiten von über 120 Metern, Anfänger tun sich jedoch schwer damit, diese Discs zu kontrollieren und in Richtung Ziel zu befördern.
+In the image above, you can see these three main discs. At the top in turquoise is a **Driver**. With its very sharp edge, it is designed to fly quickly through the air and cover distance. The air resistance of these discs is very low; thus, this disc reaches the highest speed. Professionals can achieve distances of over 120 meters, but beginners often struggle to control these discs and get them toward the target.
 
-Im Gegensatz dazu ist die untere graue Scheibe viel weniger windschnittig und will langsam geworfen werden. Dafür lässt sie sich jedoch auch sehr viel präziser und einfacher werfen. Diese Art wird **Putter** genannt und von Discgolfern für die ganz kurzen Distanzen genutzt.
+In contrast, the lower gray disc is much less aerodynamic and should be thrown slowly. However, it can be thrown much more accurately and easily. This type is called a **Putter** and is used by disc golfers for very short distances.
 
-Die orangene Scheibe in der Mitte ist der Zwischenschritt zwischen Driver und Putter und heißt **Midrange**. Diese Scheiben fliegen weiter als ein Putter, lassen sich noch sehr gut kontrollieren, erreichen allerdings nicht die Geschwindigkeiten eines Drivers.
+The orange disc in the middle is the intermediate step between driver and putter and is called **Midrange**. These discs fly further than a putter, are still very controllable, but do not reach the speeds of a driver.
 
-> Putter und Midrange reichen für den Start aus. Lerne diese Discs zu beherrschen, bevor du weitere Scheiben kaufst.
+> Putter and midrange are sufficient for starting. Learn to master these discs before buying more.
 
-![Grafik mit Flugkurven von Discgolf-Discs](/assets/images/posts/flight-numbers-dark.png)
+![Graphic with flight curves of disc golf discs](/assets/images/posts/flight-numbers-dark.png)
 {: .hide-light.mobile-aspect-3-4 }
 
-![Grafik mit Flugkurven von Discgolf-Discs](/assets/images/posts/flight-numbers-light.png)
+![Graphic with flight curves of disc golf discs](/assets/images/posts/flight-numbers-light.png)
 {: .hide-dark.mobile-aspect-3-4 }
 
-Die Grafik oben zeigt die ungefähren Flugkurven der verschiedenen Scheiben, wenn sie als Rückhand von einem Rechtshänder geworfen werden. Der Wert unten am Start der Flugkurve gibt den Speed der Scheibe an. Wenn du nach Scheiben shopst, werden dir diese Zahlen wieder begegnen. Diese Angaben für einen Putter `2|3|0|0` oder einen Driver `7|5|0|2` zeigen dir die ungefähren Flugeigenschaften der jeweiligen Disc. Wir fokussieren uns fürs Erste auf den ersten Wert, der die Geschwindikeit der Scheibe angibt.
+The graphic above shows the approximate flight curves of the various discs when thrown backhand by a right-handed player. The value at the bottom of the flight curve indicates the speed of the disc. When you shop for discs, you will encounter these numbers again. These specifications for a putter `2|3|0|0` or a driver `7|5|0|2` indicate the approximate flight characteristics of each disc. For now, we will focus on the first value, which indicates the speed of the disc.
 
-Für Anfänger sind langsame Scheiben (Putter, Midrange) einfacher zu kontrollieren und helfen dabei, den Bewegungsablauf beim Discgolf zu lernen. Discs mit Speed unter einem Wert von 6 sind hier zu empfehlen. Versuche diese Scheiben 70 Meter weit zu werfen, bevor du in die nächste Kategorie (Driver) eintauchst. Denn schnelle Scheiben fliegen nur dann weiter, wenn man auch die entsprechende Technik beherrscht. Diese haben die meisten Beginner nicht, daher führen Scheiben mit Speed größer 9 in den ersten Monaten eher zu Frustration, als zu mehr Birdies.
+For beginners, slow discs (putters, midranges) are easier to control and help learn the mechanics of disc golf. Discs with a speed value below 6 are recommended here. Try to throw these discs 70 meters before diving into the next category (driver). Because fast discs only fly further if you also master the corresponding technique, which most beginners do not have. Therefore, discs with a speed greater than 9 often lead to frustration rather than more birdies in the first months.
 
-Grundsätzlich gilt, dass "unterstabile" Scheiben für Beginner eher geeignet sind. Was es genau damit aufsich hat, überspringen wir in diesem Beitrag, die Liste am Ende beinhaltet die passenden Scheiben, sodass du darauf keine Rücksicht nehmen musst.
+In general, "understable" discs are more suitable for beginners. We will skip the details of what this means in this post; the list at the end includes the suitable discs, so you don't have to worry about that.
 
-## Plastik ist nicht gleich Plastik
+## Plastic is not just plastic
 
-Günstige Scheiben werden aus Plastiksorten produziert, die keine allzu hohe Haltbarkeit aufweisen. Daher lohnt es sich auch als Einsteiger ein paar Euro mehr auszugeben und auf "Premium-Plastik" zu setzen.
+Cheap discs are made from plastic types that do not have a high durability. Therefore, it is worth spending a few more euros as a beginner and opting for "premium plastic."
 
-![Zwei Discgolf-Discs mit Abnutzungsspuren](/assets/images/posts/premium-plastic.jpg)
+![Two disc golf discs with signs of wear](/assets/images/posts/premium-plastic.jpg)
 
-Wie sich Treffer von Bäumen oder Steinen auf die Scheiben auswirken, ist auf diesem Bild zu erkennen. Die rote Scheibe besteht aus VIP-Plastik der Marke Westside Discs und hat nahezu keine Gebrauchsspuren, wohingegen der blaue Putter aus D-Line-Plastik (Discmania) produziert wurde und inzwischen sehr lädiert ist. Es gibt auch Anwendungsfälle für günstiges Plastik bei Scheiben, Anfängern raten wir aber bei Scheiben mit einem Speedwert von größer drei zu Premiumplastik.
+The impact of hits from trees or stones on the discs is visible in this image. The red disc is made from VIP plastic from Westside Discs and shows almost no signs of wear, while the blue putter is made from D-Line plastic (Discmania) and is now very worn. There are also use cases for cheap plastic in discs, but we advise beginners to use premium plastic for discs with a speed rating greater than three.
 
-## Wie viele Scheiben benötigst du am Anfang?
+## How many discs do you need at the beginning?
 
-Je nachdem wie hoch dein Budget für das neue Hobby ist, empfehlen wir mit zwei bis vier Scheiben zu starten. Einen Putter für den letzten Wurf in den Korb, der gut in deiner Hand liegen sollte. Dazu ein Putter aus Premium-Plastik für Annäherungen von 20 bis 60 Metern. Solltest du dann noch ein wenig mehr Geld ausgeben wollen, empfiehlt sich eine Midrange und eventuell zusätzlich ein Fairway-Driver.
+Depending on how high your budget for this new hobby is, we recommend starting with two to four discs. One putter for the final throw into the basket, which should feel good in your hand. Additionally, a putter made from premium plastic for approaches from 20 to 60 meters. If you want to spend a little more money, a midrange and possibly an additional fairway driver would be advisable.
 
-Wichtig: Lerne erst diese vier Scheiben zu beherrschen, bevor du neue Scheiben kaufst. Die meisten Kurse in NRW können schon mit diesem überschaubaren Set sehr gut gespielt werden.
+Important: First, learn to master these four discs before buying new ones. Most courses in NRW can be played very well with this manageable set.
 
-## Wo bekomme ich nun Scheiben her?
+## Where can I get discs now?
 
-Es gibt verschiedene Möglichkeiten, Scheiben zu kaufen, und es lohnt sich, verschiedene Optionen zu vergleichen. Frage andere Spieler in deiner lokalen Discgolf-Community, ob sie gebrauchte Scheiben zum Verkauf anbieten. Oft sind erfahrene Spieler bereit, ihre alten Scheiben günstig abzugeben oder zu tauschen.
+There are various ways to buy discs, and it is worthwhile to compare different options. Ask other players in your local disc golf community if they have used discs for sale. Often, experienced players are willing to sell or trade their old discs cheaply.
 
-> Schau auch [in unseren Preisvergleich](/preisvergleich), um die besten Angebote für neue Scheiben zu finden und die verschiedenen Shops zu vergleichen.
+> Also, check [our price comparison](/preisvergleich) to find the best deals on new discs and compare different shops.
 
-Online-Plattformen wie eBay Kleinanzeigen, Facebook Marketplace und Discgolf-Foren können ebenfalls gute Quellen für gebrauchte und neue Scheiben sein. Besuche lokale Discgolf-Turniere, wo oft Händler vor Ort sind und eine Vielzahl von Scheiben zum Verkauf anbieten. Dies ist eine großartige Möglichkeit, Scheiben anzufassen und zu sehen, welche am besten zu deinem Spielstil passen. Indem du diese verschiedenen Möglichkeiten erkundest, kannst du die besten Scheiben für dein Spiel finden und gleichzeitig Geld sparen.
+Online platforms like eBay Kleinanzeigen, Facebook Marketplace, and disc golf forums can also be good sources for used and new discs. Attend local disc golf tournaments, where vendors often have a variety of discs for sale. This is a great opportunity to handle discs and see which ones suit your playing style best. By exploring these different options, you can find the best discs for your game while saving money.
 
+## Our Suggestions for Beginner Sets
 
-## Unsere Vorschläge für Anfängersets
+Now we come to our compiled starter sets. Which manufacturer you choose depends on which disc design appeals to you visually and at which shop you want to order. All the brands mentioned below have very good discs that we can recommend without hesitation.
 
-Nun kommen wir zu unseren zusammengestellten Starter-Sets. Für welchen Hersteller du dich entscheidest, hängt davon ab, welches Scheibendesign dir optisch am meisten zusagt und bei welchem Shop du bestellen willst. Alle unten genannten Marken haben sehr gute Discs, die wir bedenkenlos empfehlen können.
-
-Hinweis: in Klammern ist die Plastik-Art angegeben. Die Hersteller haben verschiedene Arten von Premium-Plastik. Dies ist immer nur ein Vorschlag, der in den meisten Fällen lieferbar sein sollte.
+Note: The type of plastic is indicated in parentheses. Manufacturers have various types of premium plastic. This is always just a suggestion that should generally be available.
 
 ### Innova
 

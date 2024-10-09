@@ -9,7 +9,7 @@ Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Nachfolgend
 
 Verantwortlicher im Sinne der DSGVO für die Verarbeitung Ihrer personenbezogenen Daten auf dieser Website ist:
 
-Disc Golf Syndikat e.V., Köln<br>Email: [birdie@syndikat.golf](mailto:birdie@syndikat.golf)
+Disc Golf Syndikat e.V., Köln<br>Email: [hi@bclub.golf](mailto:hi@bclub.golf)
 
 ## 2. Arten der verarbeiteten Daten
 

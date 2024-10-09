@@ -1,6 +1,6 @@
 ---
 layout: product-search
-title: Preisvergleich
-excerpt: Entdecke die besten Preise für Disc Golf Scheiben! Unser umfassender Preisvergleich hilft dir, die idealen Scheiben für dein Spiel zu finden. Wir vergleichen Angebote von verschiedenen Händlern, damit du immer das beste Schnäppchen machst. Perfekt für Anfänger und Profis!
+title: Price Comparison
+excerpt: Discover the best prices for disc golf discs! Our comprehensive price comparison helps you find the ideal discs for your game. We compare offers from various retailers so you can always snag the best deal. Perfect for beginners and pros!
 image: /assets/images/preisvergleich-sharing-image.jpg
 ---

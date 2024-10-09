@@ -1,21 +1,21 @@
 - title: Ratings
-  description: Vergleiche Dein Deutschland-Rating mit anderen Spieler*innen in Köln
+  description: Compare your BGOLF rating with other players in league.
   url: /ratings/
   thumbnail: ratings_thumb.jpg
   hide_index: true
 - title: Disc Dice
-  description: Würfle deinen nächsten Wurf und bringe Abwechslung in deine Trainingsrunden
+  description: Roll for your next throw and add variety to your practice rounds.
   url: /disc-dice/
   thumbnail: discdice_thumb.jpg
 - title: Bag Tag Challenge
-  description: Aktuelle Übersicht über unsere Bag Tags
+  description: Current overview of our Bag Tags
   url: /bagtags/
   thumbnail: bagtags_thumb.jpg
 - title: Turnierkarte
-  description: Finde alle Turniere in Deutschland auf einer übersichtlichen Karte
+  description: Find all frisbee disc tournaments on the BGOLF map.
   url: /turniere/
   thumbnail: turnierkarte_thumb.jpg
-- title: Preisvergleich
-  description: Die besten Deals für Scheiben und Zubehör in 10 Discgolf-Shops
+- title: Price comparison
+  description: The best deals for discs and accessories in 10 disc golf shops.
   url: /preisvergleich/
   thumbnail: preisvergleich_thumb.jpg

@@ -3,19 +3,19 @@ title: Bag Tags
 layout: bag-tags
 ---
 
-## Regeln:
+## Rules:
 
-* Jede\*r Spieler\*in hat das Bag Tag sichtbar an der Tasche zu tragen.
-* Das Vergessen des Bag Tags wird mit einer Spende von 2 € in die Vereinskasse geahndet.
-* Die bessere Nummer entscheidet, in welcher Runde die Forderung angenommen wird.
-* Spielen Bag Tag-Besitzer\*innen bei einem Turnier oder beim Weekly in einem Flight, wird automatisch um die Tags gespielt!
-* Flightübergreifende Forderungen nur nach Absprache! Bei Gleichstand gewinnt die bessere Nummer!
-* Geforderte Spieler\*innen haben 4 Wochen Zeit einen Termin zum Ausspielen der Bag Tags zu finden.
+* Every player must visibly attach their Bag Tag to their bag.
+* Forgetting your Bag Tag results in a $2 donation to the club’s fund.
+* The lower-numbered Bag Tag determines the challenge round.
+* If Bag Tag holders are playing in a tournament or a weekly event in the same group, they automatically compete for each other’s tags.
+* Cross-group challenges are only permitted with prior agreement. In case of a tie, the lower number wins!
+* Challenged players have four weeks to arrange a match to compete for the Bag Tags.
 
-## Bag Tag vergessen?
+## Forgot Your Bag Tag?
 
-Wenn die Strafgebühr nicht in bar beglichen werden kann, [kann sie hier via Stripe abgebucht werden](https://donate.stripe.com/9AQ9Evayf6lo4a48wC).
+If you can't pay the penalty in cash, [kann sie hier via Stripe abgebucht werden](https://donate.stripe.com/9AQ9Evayf6lo4a48wC).
 
 ## Leaderboard
 
-Die aktuelle Rangliste der Bag Tag Challenge:
+The current ranking for the Bag Tag Challenge:

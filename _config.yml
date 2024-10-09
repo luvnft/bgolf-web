@@ -1,15 +1,15 @@
 # Site settings
-title: BCLUB.GOLF
+title: BDISC.GOLF
 email: hi@bclub.golf
 description: >- 
-  Join our exclusive BGOLF CLUB Discord and BGOLF CLUB TikTok to stay tapped in!
-  Participate in our elite league, play at partner country club golf courses around the world, and enjoy exclusive discounts at our partner golf shops. Experience the excitement of golf with other passionate enthusiasts and make the most of your BGOLF Club membership!
+  Tap into our exclusive Frisbee Disc BDISC Discord and follow us on TikTok at @BDISCGOLF to stay tapped in.
+  Participate in our elite league, play at partner golf courses around the world, in parks, on university campuses, at local recreational areas, and even at private disc golf courses. Win Bitcoin BGOLF rewards and enjoy exclusive discounts with our partner shops.
 baseurl: "" # e.g., /blog
-url: "https://bclub.golf" # e.g., http://example.com
+url: "https://bdisc.golf" # e.g., http://example.com
 twitter_username: bitgolfclub
 github_username: luvnft
 permalink: /blog/:categories/:title/
-sharing_image: /assets/images/bgolf-sharing-image.jpg
+sharing_image: /assets/images/bdisc-golf-sharing-image.jpg
 
 # Build settings
 theme: minima

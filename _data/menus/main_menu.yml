@@ -1,10 +1,10 @@
 title: Menu
 items:
-  - label: Über uns
+  - label: About
     link: /about/
   - label: Events
     link: /events/
   - label: Tools
     link: /tools
-  - label: Mitglied werden
+  - label: Register
     link: /register/

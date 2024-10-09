@@ -7,7 +7,7 @@ layout: page
 Stadtwaldgürtel 63<br>
 50935 Köln
 
-E-Mail: [birdie@syndikat.golf](mailto:birdie@syndikat.golf)
+E-Mail: [hi@bclub.golf](mailto:hi@bclub.golf)
 
 ## Gemeinschaftlich vertretungsbefugt:
 
@@ -21,7 +21,7 @@ E-Mail: [max@syndikat.golf](mailto:max@syndikat.golf)
 
 Philipp Böttcher<br>
 50823 Köln<br>
-E-Mail: [birdie@syndikat.golf](mailto:birdie@syndikat.golf)
+E-Mail: [hi@bclub.golf](mailto:hi@bclub.golf)
 
 Das Impressum gilt für: [https://syndikat.golf/](https://syndikat.golf/)
 
