@@ -1,15 +1,15 @@
 items:
   - label: Blog
     link: /blog/
-  - label: Kontakt
+  - label: Disord
     link: /contact/
-  - label: Satzung
-    link: /satzung/
+  - label: TikTok
+    link: /https://tiktok.com/@bdiscgolf
+  - label: X
+    link: /https://x.com/frisbdiscgolf
+  - label: YouTube
+    link: /https://www.youtube.com/@frisbdiscgolf
   - label: FAQs
     link: /faq/
   - label: Ratings
     link: /ratings/
-  - label: Datenschutz
-    link: /datenschutz/
-  - label: Impressum
-    link: /impressum/
