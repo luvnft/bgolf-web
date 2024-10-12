@@ -1,91 +1,92 @@
 - id: personal_info
-  title: Persönliche Daten
+  title: Personal Information
   type: section
 - id: email
-  title: E-Mail
+  title: Email
   type: email
   required: true
 - id: name
-  title: Vor- und Nachname
+  title: First and Last Name
   type: text
   required: true
 - id: address
-  title: Straße und Hausnummer
+  title: Street and House Number
   type: address
   required: true
 - id: zip
-  title: Postleitzahl
+  title: Postal Code
   type: text
   required: true
 - id: city
-  title: Ort
+  title: City
   type: text
   required: true
 - id: phone
-  title: Telefonnummer
+  title: Phone Number
   type: tel
 - id: birthday
-  title: Geburtsdatum
+  title: Date of Birth
   type: text
   placeholder: DD.MM.YYYY
   required: true
 - id: dfv-number
-  title: DFV-Nummer vorhanden
+  title: BGOLF Inscription Number
   type: radio
-  tooltip: Wenn du bereits in einem anderen Verein (Discgolf, Ultimate, etc.) angemeldet bist/warst, schick uns bitte deine aktuelle DFV-Nummer zu, damit wir dich ummelden können.
+  tooltip: If you minted Bitcoin BGOLF money, please provide your current inscription number so we can update your registration.
   options:
-    - label: Ja, ich besitze bereits eine DFV-Nummer
+    - label: Yes, I already have a Bitcoin BGOLF
       value: true
-    - label: Nein, ich habe noch keine DFV-Nummer
+    - label: No, I do not have a Bitcoin BGOLF
       value: false
   required: true
 - id: payment_info
-  title: Zahlungsinformationen
+  title: Payment Information
   type: section
 - id: membership-type
-  title: Art der Mitgliedschaft
+  title: Membership Type
   type: radio
   options:
-    - label: Aktives Mitglied
+    - label: Active Member
       value: true
-    - label: Fördermitglied
+    - label: Supporting Member
       value: false
   required: true
 - id: reduction
-  title: Ermäßigung
-  label: Ich bin ermäßigungsberechtigt
+  title: Discount
+  label: I am eligible for a discount
   type: checkbox
-  tooltip: "Schüler:innen, Arbeitssuchende und Rentner:innen zahlen einen ermäßigten Beitrag. Ein entsprechender Nachweis ist vorzulegen."
+  tooltip: "Students, job seekers, and retirees are eligible for a discounted rate. Proof must be provided."
 - id: iban
   title: IBAN
   type: text
   required: true
 - id: account-owner
-  title: Kontoinhaber
+  title: Account Holder
   type: text
   required: true
 - id: sepa-mandate
   type: info
-  title: SEPA-Mandat
-  text: "Mit Absenden dieses Anmeldeformulars ermächtige ich Sie, Zahlungen von meinem Konto mittels Lastschrift einzuziehen. Zugleich weise ich mein Kreditinstitut an, die von Disc Golf Syndikat e.V. auf mein Konto gezogenen Lastschriften einzulösen. Hinweis: Ich kann innerhalb von acht Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit meinem Kreditinstitut vereinbarten Bedingungen."
+  title: SEPA Mandate
+  text: "By submitting this registration form, I authorize you to debit payments from my account via direct debit. I also instruct my bank to honor these debits drawn by Disc Golf Syndikat e.V. from my account. Note: I can request a refund of the debited amount within eight weeks from the debit date. The terms agreed with my bank apply."
 - id: legal
-  title: Rechtliches
+  title: Legal
   type: section
 - id: terms
-  title: Satzung
-  label: Ich erkenne die Satzung des Disc Golf Syndikat e.V. an
-  text: "Die Satzung findest du <a href=\"\/satzung\">hier</a>"
+  title: Articles of Association
+  label: I acknowledge the BDisc Golf Articles of Association
+  text: "You can find the Articles of Association <a href=\"/articles\">here</a>"
   type: checkbox
   required: true
 - id: disclaimer
-  title: Widerrufsbelehrung
-  label: Ich habe die Widerrufsbelehrung gelesen und zur Kenntnis genommen
-  text: "Hiermit ermächtige ich Sie widerruflich, die von mir zu entrichtenden Zahlungen für den Mitgliedsbeitrag ab nächstmöglichem Zeitpunkt bei Fälligkeit mittels Lastschrift einzuziehen. Wenn mein Konto die erforderliche Deckung nicht aufweist, besteht seitens des kontoführenden Kreditinstitutes keine Verpflichtung zur Einlösung. Teileinlösungen werden im Lastschriftverfahren nicht vorgenommen."
+  title: Withdrawal Policy
+  label: I have read and acknowledge the withdrawal policy
+  text: "I hereby authorize you to debit the membership fees from my account at the next possible date. If my account does not have sufficient funds, my bank is not obligated to honor the payment. Partial payments will not be processed via direct debit."
   type: checkbox
   required: true
 - id: privacy
-  title: Einwilligung Datenverarbeitung
-  label: Ich habe die Datenschutzerklärung gelesen und willige der Verwendung meiner Daten ein
-  text: "Ich erkläre mich damit einverstanden, dass meine persönlichen Daten (Name, Anschrift, Geburtsdatum, E-Mail-Adresse) durch den Disc Golf Syndikat e.V. zur Zusendung von Informationen rund um den Verein genutzt werden. Meine personenbezogenen Daten werden niemals an Dritte ohne gesetzliche Grundlage übermittelt. Unser Verein ist verpflichtet, folgende mitgliedsbezogene Daten an den Deutschen Frisbeesportverband zu übermitteln: Name, Geburtsdatum, Eintrittsdatum. Mit dieser Übermittlung im Rahmen des Vereinszwecks bin ich einverstanden. Mir ist bekannt, dass ich diese Einwilligung jederzeit durch schriftliche Information an den Disc Golf Syndikat e.V. widerrufen kann. Datenschutzhinweis: Die Daten werden durch den Disc Golf Syndikat e.V. gemäß folgender Datenschutzinformation verarbeitet: <a href=\"/datenschutz\">Datenschutz<\/a>."
+  title: Privacy
+  label: I have read the Privacy Policy and consent to the use of my data
+  text: "I agree that my personal data (name, address, date of birth, email address) may be used by BDISC Golf to send information about the club. My personal data will never be shared with third parties without a legal basis. I consent to this transfer for club purposes. I understand that I can withdraw my consent at any time by notifying BDISC Golf in writing. Privacy Notice: Data is processed by BDISC Golf in accordance with the privacy information available <a href=\"/privacy\">here</a>."
   type: checkbox
   required: true
+

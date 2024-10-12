@@ -1,57 +1,57 @@
 ---
-title: Datenschutzerklärung
+title: Privacy Policy
 layout: page
 ---
 
-Der Schutz Ihrer persönlichen Daten ist uns ein wichtiges Anliegen. Nachfolgend informieren wir Sie gemäß den geltenden Datenschutzgesetzen, insbesondere der Europäischen Datenschutzgrundverordnung (DSGVO), über die Verarbeitung Ihrer Daten bei der Nutzung unserer Website syndikat.golf.
+Protecting your personal data is an important concern for us. Below, we inform you about the processing of your data in accordance with applicable data protection laws, particularly the European General Data Protection Regulation (GDPR), when you use our website syndikat.golf.
 
-## 1. Verantwortlicher
+## 1. Data Controller
 
-Verantwortlicher im Sinne der DSGVO für die Verarbeitung Ihrer personenbezogenen Daten auf dieser Website ist:
+The controller responsible for processing your personal data on this website, in accordance with the GDPR, is:
 
-Disc Golf Syndikat e.V., Köln<br>Email: [hi@bclub.golf](mailto:hi@bclub.golf)
+BDisc Golf, Atlanta, GA<br>Email: [play@bdisc.golf](mailto:play@bdisc.golf)
 
-## 2. Arten der verarbeiteten Daten
+## 2. Types of Data Processed
 
-Wir verarbeiten personenbezogene Daten, die Sie uns im Rahmen der Nutzung unserer Website freiwillig zur Verfügung stellen. Dazu gehören insbesondere:
+We process personal data that you voluntarily provide to us through your use of our website. This includes, in particular:
 
-- Kontaktdaten (z. B. Name, E-Mail-Adresse, Telefonnummer), die Sie uns über Kontaktformulare oder E-Mail zur Verfügung stellen.
-- Kommunikationsdaten (z. B. IP-Adresse, Datum und Uhrzeit der Serveranfrage), die automatisch beim Besuch unserer Website erfasst werden.
-- Zahlungsdaten, die im Rahmen einer Spende oder anderer Transaktionen über unsere Website erfasst werden, sofern zutreffend.
+- Contact data (e.g., name, email address, phone number) that you provide through contact forms or email.
+- Communication data (e.g., IP address, date, and time of server requests) that is automatically collected when you visit our website.
+- Payment data collected as part of donations or other transactions on our website, if applicable.
 
-## 3. Zwecke der Datenverarbeitung
+## 3. Purposes of Data Processing
 
-Wir verarbeiten Ihre personenbezogenen Daten zu folgenden Zwecken:
+We process your personal data for the following purposes:
 
-- Zur Beantwortung von Anfragen und Kommunikation mit Ihnen.
-- Zur Durchführung von Transaktionen, falls Sie Spenden oder andere Zahlungen über unsere Website tätigen.
-- Zur Verbesserung und Sicherstellung der Funktionalität unserer Website.
-- Zur Einhaltung rechtlicher Verpflichtungen, insbesondere im Hinblick auf steuerliche und buchhalterische Anforderungen.
+- To respond to inquiries and communicate with you.
+- To process transactions, in case you make donations or other payments through our website.
+- To improve and ensure the functionality of our website.
+- To comply with legal obligations, particularly regarding tax and accounting requirements.
 
-## 4. Weitergabe von Daten
+## 4. Disclosure of Data
 
-Wir geben Ihre Daten nur an Dritte weiter, wenn dies gesetzlich erlaubt ist oder Sie eingewilligt haben. Eine Übermittlung Ihrer Daten an Dritte findet insbesondere statt, wenn dies zur Vertragserfüllung erforderlich ist oder wir aufgrund einer rechtlichen Verpflichtung dazu verpflichtet sind.
+We only share your data with third parties if this is legally permitted or if you have given your consent. Data is particularly shared when necessary for contract fulfillment or when we are legally obligated to do so.
 
-## 5. Einsatz von Cookies
+## 5. Use of Cookies
 
-Unsere Website verwendet Cookies, um die Nutzung der Website zu erleichtern und das Online-Erlebnis zu verbessern. Sie können die Verwendung von Cookies in den Einstellungen Ihres Browsers deaktivieren, jedoch kann dies die Funktionalität unserer Website beeinträchtigen.
+Our website uses cookies to facilitate website use and enhance the online experience. You can disable cookies in your browser settings, although this may impair the functionality of our website.
 
-## 6. Sicherheit
+## 6. Security
 
-Wir treffen angemessene technische und organisatorische Maßnahmen, um Ihre Daten gegen unbefugten Zugriff, Verlust oder Missbrauch zu schützen. Dennoch können wir keine absolute Sicherheit garantieren.
+We implement appropriate technical and organizational measures to protect your data against unauthorized access, loss, or misuse. However, we cannot guarantee absolute security.
 
-## 7. Ihre Rechte
+## 7. Your Rights
 
-Sie haben das Recht auf Auskunft, Berichtigung, Löschung, Einschränkung der Verarbeitung, Datenübertragbarkeit und Widerspruch bezüglich Ihrer personenbezogenen Daten. Bitte kontaktieren Sie uns dazu unter den oben angegebenen Kontaktdaten.
+You have the right to access, correct, delete, restrict processing, transfer, and object to the processing of your personal data. Please contact us at the above contact information to exercise these rights.
 
-## 8. Änderungen dieser Datenschutzerklärung
+## 8. Changes to this Privacy Policy
 
-Wir behalten uns das Recht vor, diese Datenschutzerklärung jederzeit zu ändern. Die jeweils aktuelle Version veröffentlichen wir auf unserer Website. Es gilt die jeweils veröffentlichte Version.
+We reserve the right to change this Privacy Policy at any time. The latest version will be published on our website, and the published version applies.
 
-## 9. Kontakt
+## 9. Contact
 
-Wenn Sie Fragen oder Anmerkungen zu dieser Datenschutzerklärung haben, können Sie uns unter den oben angegebenen Kontaktdaten erreichen.
+If you have any questions or comments regarding this Privacy Policy, you can reach us at the contact details provided above.
 
-Stand: 18.04.2024
+Date: April 18, 2024
 
-Vielen Dank für Ihr Vertrauen und Ihre Aufmerksamkeit.
+Thank you for your trust and attention.
