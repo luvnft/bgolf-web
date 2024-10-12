@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "BDISC.golf: How Bitcoin BGOLF powers the Disc Golf Revolution 🥏🪙"
+title: "BDISC.golf How Bitcoin BGOLF powers the Disc Golf Revolution"
 image: /assets/images/posts/bitcoin-golf.jpg
 thumbnail: /assets/images/posts/thumbnails/bitcoin-golf.jpg
 tags: bgolf

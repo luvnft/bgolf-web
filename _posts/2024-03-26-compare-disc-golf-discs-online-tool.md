@@ -1,6 +1,6 @@
 ---
 layout: post  
-title: The Best Deals in the New Price Comparison Tool!  
+title: "The Best Deals in the New Price Comparison Tool!"
 image: /assets/images/posts/compare.jpg  
 thumbnail: /assets/images/posts/thumbnails/compare_thumb.jpg  
 tags: app, discs  

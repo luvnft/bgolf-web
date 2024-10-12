@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Proposal to Save New Jersey Stafford Woods Disc Golf Course
+title: "Proposal to Save New Jersey Stafford Woods Disc Golf Course"
 image: /assets/images/posts/saison-2023-startloecher.jpg
 thumbnail: /assets/images/posts/thumbnails/saison-2023-startloecher.jpg
 tags: disc-golf, Voorhees, Stafford Woods
-author: Hahz
+author: hahz
 ---
 
 A plan to save the popular Stafford Woods disc-golf course in Voorhees has been submitted to state agencies by Voorhees Township. This proposal aims to modify the course's construction to align more closely with New Jersey regulations.

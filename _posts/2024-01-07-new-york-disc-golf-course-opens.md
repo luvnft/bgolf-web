@@ -1,10 +1,10 @@
 ---
 layout: post
-title: New Disc Golf Course in NYC
+title: "New Disc Golf Course in NYC"
 image: /assets/images/posts/syndication-rueckblick.jpg
 thumbnail: /assets/images/posts/thumbnails/syndication-rueckblick.jpg
 tags: league news
-author: Hahz 
+author: hahz 
 ---
 
 As we leave 2022 behind, we also reflect on the first four months of our weekly league, "Syndication Weekly." Since August, we have played 197 rounds with 44 players participating. Over 20 events saw a peak attendance of 21 disc golfers, who collectively threw over 5,000 times at the course in Cologne.

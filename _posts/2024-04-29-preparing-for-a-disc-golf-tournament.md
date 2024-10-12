@@ -3,8 +3,8 @@ layout: post
 title: "Preparing for Your Upcoming Tournament: Essential Gear and Tips"
 image: /assets/images/posts/packliste.jpg
 thumbnail: /assets/images/posts/thumbnails/packliste_thumb.jpg
-tags: turnament
-author: Hahz
+tags: tournament
+author: hahz
 date: 2024-08-21
 ---
 

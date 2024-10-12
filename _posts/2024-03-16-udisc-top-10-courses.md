@@ -1,6 +1,6 @@
 ---
 layout: post
-title: UDisc Top 10 Courses
+title: "UDisc Top 10 Courses"
 image: /assets/images/posts/24_driveopen_blume.jpg
 thumbnail: /assets/images/posts/thumbnails/24_driveopen_blume.jpg
 tags: courses

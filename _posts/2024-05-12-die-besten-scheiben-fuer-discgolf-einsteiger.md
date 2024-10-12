@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best Disc Golf Discs for Beginners
+title: "The Best Disc Golf Discs for Beginners"
 date: 2024-05-11 00:00
 image: /assets/images/posts/beginner-discs.jpg
 thumbnail: /assets/images/posts/thumbnails/beginner-discs.jpg

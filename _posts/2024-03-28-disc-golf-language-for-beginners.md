@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Beginner's Guide 🥏
+title: "A Beginner's Disc Golf Guide"
 image: /assets/images/posts/sommerzeit.jpg
 thumbnail: /assets/images/posts/thumbnails/sommerzeit.jpg
 tags: league
