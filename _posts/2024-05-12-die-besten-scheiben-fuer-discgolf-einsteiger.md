@@ -57,7 +57,7 @@ Important: First, learn to master these four discs before buying new ones. Most 
 
 There are various ways to buy discs, and it is worthwhile to compare different options. Ask other players in your local disc golf community if they have used discs for sale. Often, experienced players are willing to sell or trade their old discs cheaply.
 
-> Also, check [our price comparison](/preisvergleich) to find the best deals on new discs and compare different shops.
+> Also, check [our price comparison](/compare) to find the best deals on new discs and compare different shops.
 
 Online platforms like eBay Kleinanzeigen, Facebook Marketplace, and disc golf forums can also be good sources for used and new discs. Attend local disc golf tournaments, where vendors often have a variety of discs for sale. This is a great opportunity to handle discs and see which ones suit your playing style best. By exploring these different options, you can find the best discs for your game while saving money.
 
@@ -69,28 +69,28 @@ Note: The type of plastic is indicated in parentheses. Manufacturers have variou
 
 ### Innova
 
-* Putter: [Aviar (DX)](/preisvergleich/#/?q=dx%20aviar)
-* Throwing Putter: [Aviar (Star)](/preisvergleich/#/?q=star%20aviar)
-* Midrange: [Mako3 (Star)](/preisvergleich/#/?q=star%20mako3)
-* Fairway Driver: [Leopard (Star)](/preisvergleich/#/?q=star%20leopard)
+* Putter: [Aviar (DX)](/compare/#/?q=dx%20aviar)
+* Throwing Putter: [Aviar (Star)](/compare/#/?q=star%20aviar)
+* Midrange: [Mako3 (Star)](/compare/#/?q=star%20mako3)
+* Fairway Driver: [Leopard (Star)](/compare/#/?q=star%20leopard)
 
 ### Latitude 64°
 
-* Putter: [Pure (Zero)](/preisvergleich/#/?q=zero%20pure)
-* Throwing Putter: [Pure (Opto)](/preisvergleich/#/?q=opto%20pure)
-* Midrange: [Fuse (Opto)](/preisvergleich/#/?q=opto%20fuse)
-* Fairway Driver: [River (Opto)](/preisvergleich/#/?q=opto%20river)
+* Putter: [Pure (Zero)](/compare/#/?q=zero%20pure)
+* Throwing Putter: [Pure (Opto)](/compare/#/?q=opto%20pure)
+* Midrange: [Fuse (Opto)](/compare/#/?q=opto%20fuse)
+* Fairway Driver: [River (Opto)](/compare/#/?q=opto%20river)
 
 ### Discmania
 
-* Putter: [Link (Exo)](/preisvergleich/#/?q=exo%20link)
-* Throwing Putter: [P2 (S-Line)](/preisvergleich/#/?q=s-line%20p2)
-* Midrange: [MD1 (C-Line)](/preisvergleich/#/?q=c-line%20md1)
-* Fairway Driver: [Essence (Neo)](/preisvergleich/#/?q=neo%20essence)
+* Putter: [Link (Exo)](/compare/#/?q=exo%20link)
+* Throwing Putter: [P2 (S-Line)](/compare/#/?q=s-line%20p2)
+* Midrange: [MD1 (C-Line)](/compare/#/?q=c-line%20md1)
+* Fairway Driver: [Essence (Neo)](/compare/#/?q=neo%20essence)
 
 ### Axiom (MVP)
 
-* Putter: [Pixel](/preisvergleich/#/?q=pixel)
-* Throwing Putter: [Proxy](/preisvergleich/#/?q=proxy)
-* Midrange: [Hex](/preisvergleich/#/?q=hex)
-* Fairway Driver: [Crave](/preisvergleich/#/?q=crave)
+* Putter: [Pixel](/compare/#/?q=pixel)
+* Throwing Putter: [Proxy](/compare/#/?q=proxy)
+* Midrange: [Hex](/compare/#/?q=hex)
+* Fairway Driver: [Crave](/compare/#/?q=crave)

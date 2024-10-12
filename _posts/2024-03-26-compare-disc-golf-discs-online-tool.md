@@ -1,15 +1,15 @@
 ---
-layout: post
-title: The Best Deals in the New Price Comparison Tool!
-image: /assets/images/posts/preisvergleich.jpg
-thumbnail: /assets/images/posts/thumbnails/preisvergleich_thumb.jpg
-tags: app discs
-author: max
+layout: post  
+title: The Best Deals in the New Price Comparison Tool!  
+image: /assets/images/posts/compare.jpg  
+thumbnail: /assets/images/posts/thumbnails/compare_thumb.jpg  
+tags: app, discs  
+author: hahz  
 ---
 
-Are you looking for the best price for your next "totally justified disc purchase"? Ready for a new level of disc shopping? [Our brand-new price comparison tool](/preisvergleich) is here to help you find the hottest deals on your favorite discs and accessories without having to scour the stores individually.
+Are you looking for the best price for your next "totally justified disc purchase"? Ready for a new level of disc shopping? [Our brand-new price comparison tool](/compare) is here to help you find the hottest deals on your favorite discs and accessories without having to scour the stores individually.
 
-<a href="/preisvergleich" class="button button--big button--primary">Go to Price Comparison</a>
+<a href="/compare" class="button button--big button--primary">Go to Price Comparison</a>
 
 ## How Does It Work?
 
@@ -31,8 +31,8 @@ Missing a shop? Let us know [through our contact form](/contact)!
 
 ## Conclusion:
 
-Ready, set, throw! [Our price comparison tool](/preisvergleich) is your new best friend when it comes to finding the best disc golf deals. Whether you’re a pro or just starting out – with us, you’ll always be ahead of the game.
+Ready, set, throw! [Our price comparison tool](/compare) is your new best friend when it comes to finding the best disc golf deals. Whether you’re a pro or just starting out – with us, you’ll always be ahead of the game.
 
 Try it out now and take advantage of the Easter deals! The summer season is starting, so it's probably justifiable to make a spontaneous purchase or two 😉
 
-Keep throwing,<br>Max
+Keep throwing,<br>Wizard of Hahz

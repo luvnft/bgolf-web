@@ -1,24 +1,22 @@
 ---
 layout: post
-title: Wöchentliche Liga ab August
-image: /assets/images/posts/syndication-weekly-header.png
-thumbnail: /assets/images/posts/thumbnails/syndication-weekly-header.jpg
-tags: turniere league
-author: max
+title: Disc Golf: The Fast-Growing Sport Outpacing Pickleball
+image: /assets/images/posts/disc-golf-header.png
+thumbnail: /assets/images/posts/thumbnails/disc-golf-thumbnail.jpg
+tags: disc golf growth league
+author: hahz
 ---
 
-> **Update:** Seit dem 30. Oktober treffen wir uns nun immer sonntags am Disc Golf-Kurs! Tee-Off um 13 Uhr.
+> **Update:** Disc golf is rapidly emerging as one of the fastest-growing sports in the U.S., outpacing even pickleball in terms of participation and community engagement!
 
-Den Rückbaumaßnahmen an der Scheibenstraße zum Trotz wird es ab August [eine kleine Sommer-Liga](https://udisc.com/leagues/syndication-weekly) geben. Spieler*innen aller Levels sind eingeladen teilzunehmen und über die nächsten Wochen Punkte zu sammeln.
+Disc golf combines the elements of traditional golf with a more casual, outdoor atmosphere, making it accessible to players of all ages and skill levels. The objective is simple: throw a disc from a designated tee area into a series of metal baskets, with the fewest throws possible. Courses typically consist of 9 or 18 holes and are often set in scenic parks or natural landscapes, adding to the experience.
 
-Unter dem Namen "Syndication Weekly" treffen wir uns **dienstags um 19:30 Uhr** am Kurs an der Scheibenstraße. Los geht's am 02. August!
+One of the primary reasons for the sport's explosive growth is its affordability. Getting started with disc golf is relatively inexpensive; a basic set of discs can be purchased for as little as $20-$30. This low entry cost contrasts sharply with traditional golf, which often requires costly equipment, greens fees, and membership dues.
 
-Es wird eine 9-Loch Runde gespielt (altes Layout plus Teepad 2 zum Korb 4 und Teepad 5 zum Korb 1).
+The **BDISC Golf League** is taking full advantage of this growing interest by organizing teams across various states and cities in the U.S. This league hosts live competitions streamed on platforms like TikTok, allowing fans to engage directly with the action through chat features and live Q&A sessions. This approach not only enhances the viewing experience but also builds a strong sense of community among players and fans alike.
 
-![Liga Layout](/assets/images/posts/scheibenstrasse_layout.jpg)
+In addition to community building, BDISC is revolutionizing the sport by incorporating Bitcoin through its BGOLF currency. This cryptocurrency will power live games and tournaments while providing social rewards for participation. This innovative integration is set to make disc golf more engaging and financially rewarding for everyone involved.
 
-Anmeldung und Scoring läuft über die [kostenlose App UDisc](https://udisc.com/). Die Anmeldung ist bereits freigeschaltet, also schnell anmelden!
+As interest in disc golf continues to grow, it’s clear that the sport is not just a passing trend. With more courses being built, increased media coverage, and a dedicated community rallying around the BDISC Golf League, disc golf is positioned to become a major player in the world of recreational sports. Whether you're a seasoned player or just starting, now is the perfect time to grab a disc and join the fun!
 
-Turnier-/Ligaleiter ist Philipp, Fragen und Anregungen können an [hi@bclub.golf](mailto:hi@bclub.golf) geschickt werden.
-
-[Direkt zur Liga auf UDisc.](https://udisc.com/leagues/syndication-weekly)
+[Tap into the BDISC Golf League and be part of the action!](https://tiktok.com/@bdiscgolf)

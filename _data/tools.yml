@@ -11,11 +11,11 @@
   description: Current overview of our Bag Tags
   url: /bagtags/
   thumbnail: bagtags_thumb.jpg
-- title: Turnierkarte
+- title: Tournaments
   description: Find all frisbee disc tournaments on the BGOLF map.
   url: /turniere/
   thumbnail: turnierkarte_thumb.jpg
 - title: Price comparison
   description: The best deals for discs and accessories in 10 disc golf shops.
-  url: /preisvergleich/
+  url: /compare/
   thumbnail: preisvergleich_thumb.jpg
