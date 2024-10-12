@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Look Back and Ahead: New Disc Golf Course in NYC
+title: New Disc Golf Course in NYC
 image: /assets/images/posts/syndication-rueckblick.jpg
 thumbnail: /assets/images/posts/thumbnails/syndication-rueckblick.jpg
 tags: league news

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Disc Golf: The Fast-Growing Sport Outpacing Pickleball
+title: Disc Golf Is The Fast-Growing Sport Outpacing Pickleball
 image: /assets/images/posts/disc-golf-header.png
 thumbnail: /assets/images/posts/thumbnails/disc-golf-thumbnail.jpg
 tags: disc golf growth league
