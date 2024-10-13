@@ -3,12 +3,10 @@ title: Events
 layout: page
 ---
 
-## Syndication Weekly
+## BDISC Weekly
 
-Unsere wöchentliche Liga. Spieler:innen jedes Niveaus sind willkommen. Eine Runde, danach freies Spielen bis die Sonne unter geht.
+Our weekly league. Players of all levels are welcome. One round, followed by free play until sunset. Create an event in our [BDISC Discord](https://discord.gg/vnJu3ZWVKy)
 
-> Jeden Sonntag, 13:00 Uhr, [an der Scheibenstraße](https://goo.gl/maps/yqyVDEoEs8Qd5LD56) – [Event auf UDisc.com](https://udisc.com/leagues/syndication-weekly)
+## BDISC Event Promo
 
-## Weitere Events
-
-Schick uns gern eine [Email an birdie@sydikat.golf](mailto:hi@bclub.golf) mit einem Hinweis auf ein Event, das hier veröffentlicht werden sollte.
+Need Disc Golf promo for your exisiting event [Email an play@bdisc.golf](mailto:play@bdisc.golf).

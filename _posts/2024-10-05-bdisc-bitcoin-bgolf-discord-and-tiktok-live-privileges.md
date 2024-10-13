@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "BDISC Bitcoin BGOLF Discord and TikTok Live Privileges"
-image: /assets/images/posts/bitcoin-golf.jpg
-thumbnail: /assets/images/posts/thumbnails/bitcoin-golf.jpg
+image: /assets/images/posts/bdisc-golf-discord.jpg
+thumbnail: /assets/images/posts/thumbnails/bdisc-golf-discord.jpg
 tags: bgolf
 author: hahz
 ---
