@@ -17,10 +17,10 @@ To change or cancel your membership or to update your payment details, you can [
 
 ## Benefits
 
-- DFV number (required for official tournaments)
-- Club training
-- Insurance at tournaments
-- 15% discount at [frisbeeshop.com](https://frisbeeshop.com)
+- Inscription number (required for official tournaments)
+- BDISC Discord TikTok Live and post alerts
+- NFT Members Badge
+- BDISC social media story promo
 - Member access on the Discord server
 
 ## Donations
