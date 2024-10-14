@@ -2,8 +2,8 @@
 
 <div class="period-select">
   <div class="period-select__button-group">
-    <button class="button button--primary" data-period="yearly">Jährlich</button>
-    <button class="button" data-period="monthly">Monatlich</button>
+    <button class="button button--primary" data-period="yearly">Yearly</button>
+    <button class="button" data-period="monthly">Monthly</button>
   </div>
 </div>
 
@@ -31,9 +31,9 @@
               </p>
               <div class="plan-card__cta">
                 {% if period.link %}
-                  <a href="{{ period.link }}?locale=de" target="_blank" class="button{% if period.featured %} button--primary{% endif %}">Auswählen</a>
+                  <a href="{{ period.link }}?locale=de" target="_blank" class="button{% if period.featured %} button--primary{% endif %}">Select</a>
                 {% else %}
-                  <span class="button{% if period.featured %} button--primary{% endif %}" disabled>Auswählen</span>
+                  <span class="button{% if period.featured %} button--primary{% endif %}" disabled>Select</span>
                 {% endif %}
               </div>
             </div>

@@ -59,7 +59,7 @@ Organe des Vereins sind:
 
 # § 8 Mitglieder&shy;versammlung
 
-1. Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie findet einmal jährlich im zweiten Halbjahr des Geschäftsjahres statt.
+1. Die Mitgliederversammlung ist das oberste Organ des Vereins. Sie findet einmal Yearly im zweiten Halbjahr des Geschäftsjahres statt.
 1. Die Einladung zur Mitgliederversammlung ist den Mitgliedern mit Angabe der Tagesordnung 14 Tage vor dem Termin durch den Vorstand per E-Mail zuzustellen.
 1. Die Tagesordnung muss folgende Punkte enthalten:
   - Genehmigung des Protokolls der letzten Mitgliederversammlung
@@ -95,7 +95,7 @@ Organe des Vereins sind:
 
 # § 11 Kassenprüfung
 
-Eine Prüfung der Kassengeschäfte des Vereins ist mindestens einmal jährlich nach Abschluss des Geschäftsjahres durch zwei Kassenprüfer vorzunehmen. Diese werden von der Mitgliederversammlung für zwei Jahre gewählt. Sie haben der Mitgliederversammlung einen Prüfungsbericht vorzulegen.
+Eine Prüfung der Kassengeschäfte des Vereins ist mindestens einmal Yearly nach Abschluss des Geschäftsjahres durch zwei Kassenprüfer vorzunehmen. Diese werden von der Mitgliederversammlung für zwei Jahre gewählt. Sie haben der Mitgliederversammlung einen Prüfungsbericht vorzulegen.
 
 # § 12 Auflösung des Vereins
 

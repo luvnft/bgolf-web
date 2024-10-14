@@ -4568,7 +4568,7 @@ table td {
 }
 
 .plan-card--featured::before {
-  content: "Empfehlung";
+  content: "Most Popular";
   position: absolute;
   bottom: 100%;
   left: 50%;
