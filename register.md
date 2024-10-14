@@ -21,7 +21,7 @@ To change or cancel your membership or to update your payment details, you can [
 - BDISC Members Badge
 - BDISC social media promo
 - Member access on the Discord server
-- Member discounts on BDISC products
+- Member discounts (15%) on upcoming BDISC products
 - Bitcoin BGOLF (PROS Only) 
 
 ## Donations
