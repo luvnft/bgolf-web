@@ -3,17 +3,17 @@
   tooltip: "Discounted membership for college students, retirees, unemployed individuals, and people with disabilities. A copy of the relevant proof must be provided."
   periods:
     - name: yearly
-      price: "24"
-      link: "https://buy.stripe.com/"
+      price: "$22"
+      link: "https://buy.stripe.com/dR67tNdOn7HCcCc6p2"
     - name: monthly
       price: null
-- title: "Standard"
+- title: "Pro"
   description: "Standard membership for active players"
   periods:
     - name: yearly
-      price: "30"
+      price: "$33"
       featured: true
-      link: "https://buy.stripe.com/"
+      link: "https://buy.stripe.com/aEU6pJbGf0fa31CbJl"
     - name: monthly
       price: null
 - title: "Supporter"
@@ -21,9 +21,9 @@
   tooltip: "Supporter members provide financial support to the club but are not active within it. They do not have voting rights and cannot participate in elections."
   periods:
     - name: yearly
-      price: "50"
-      link: "https://buy.stripe.com/"
+      price: "$50"
+      link: "https://buy.stripe.com/8wMbK3fWvfa40Tu8x8"
     - name: monthly
-      price: "5"
+      price: "$10"
       featured: true
-      link: "https://buy.stripe.com/"
+      link: "https://buy.stripe.com/cN2dSb4dNaTO7hS14J"

@@ -7,13 +7,13 @@
   description: Roll for your next throw and add variety to your practice rounds.
   url: /disc-dice/
   thumbnail: discdice_thumb.jpg
-- title: Blog
+- title: Disc Golf Language
   description: Read our blogs to learn more about Disc Golf
-  url: /blog/
-  thumbnail: discdice_thumb.jpg
-- title: Disc Golf Lingo
-  description: Learn the language of Disc Golf
   url: /blog/disc-golf-language-for-beginners/
+  thumbnail: discdice_thumb.jpg
+- title: Disc Search Engine
+  description: Find your Disc +1000 up to date discs in database
+  url: https://search.bdisc.golf/
   thumbnail: discdice_thumb.jpg
 - title: BDISC Golf TikTok
   description: The official BDISC GOLF TikTok page
