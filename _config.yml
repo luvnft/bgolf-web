@@ -1,10 +1,9 @@
 # Site settings
 title: BDISC.GOLF
 email: hi@bclub.golf
-description: >- 
-  Tap into our exclusive Frisbee Disc BDISC Discord and follow us on TikTok at @BDISCGOLF to make this sport a trending topic.
-  Participate in our elite league, play at partner golf courses around the world, in parks, on university campuses, at local recreational areas, and even at private disc golf courses. Win Bitcoin BGOLF rewards and enjoy exclusive discounts with our partner shops.
-baseurl: "" # e.g., /blog
+description: >-
+  BDISC.golf is the disc golf pro league played [live](https://live.bdisc.golf/) on our streaming platform and on TikTok with Duet challenges. Participate in our elite league, play at partner golf courses around the world, in parks, on university campuses, at local recreational areas, and urban pop-up goals. Use our disc [search](https://search.bdisc.golf) engine to access info on over 1k+ disc types. Earn Bitcoin [BGOLF](https://bdisc.golf/blog/bdisc-golf-where-bitcoin-meets-disc-golf/) rewards for winning our social challenges.
+baseurl: "https://bdisc.golf" # e.g., /blog
 url: "https://bdisc.golf" # e.g., http://example.com
 twitter_username: bitgolfclub
 github_username: luvnft
